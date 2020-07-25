@@ -13,4 +13,4 @@ As for my future plan, I'll gradually stop current activity under this id, disco
 We'll meet at a free place.
 
 
-Contact: [E-mail](mailto:elfile4138@outlook.com); [Telegram](t.me/EL_File4138).
+Contact: [E-mail](mailto:elfile4138@outlook.com); [Telegram](https://t.me/EL_File4138/).
