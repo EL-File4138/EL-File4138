@@ -4,9 +4,9 @@
 Nope, Just Stop Reading it.
 
 
-I'm a 16-year old student in China. I think the Internet right now is terrible, nomatter where.
+I'm a 17-year old student in China. I think the Internet right now is terrible, no matter where.
 
-I'm currently working on **Development of [Kudosaka]()** , collabrating with my team [@ShugetsuSoft](https://github.com/ShugetsuSoft), and some documentary/creative writing such as tech guide, ARG game script, novel and more.
+I'm currently working on **Development of [Lemon-qube](https://github.com/EL-File4138/Lemon-qube)** , collabrating with my team [@ShugetsuSoft](https://github.com/ShugetsuSoft), and some documentary/creative writing such as tech guide, ARG game script, novel and more.
 
 We'll meet at a free place.
 
