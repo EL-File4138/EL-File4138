@@ -4,7 +4,7 @@
 Nope, Just Stop Reading it.
 
 
-I'm a 18-year old undergraduate student from China, currently enrolled in Bachelor of Sciences at UBCO. I think the Internet right now is terrible, no matter where.
+I'm a 18-year old high school student from China. I think the Internet right now is terrible, no matter where.
 
 I'm currently working on **Development of [Lemon-qube](https://github.com/EL-File4138/Lemon-qube)** , collabrating with my team [@ShugetsuSoft](https://github.com/ShugetsuSoft), and some documentary/creative writing such as tech guide, ARG game script, novel and more.
 
